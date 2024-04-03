@@ -4,7 +4,7 @@
 	
 		These commands allow you to get basic information about Unix users in your environment.
 		
-		whoami – show your username
+		whoami – show your username 
 		
 		id – print user identity
 		
